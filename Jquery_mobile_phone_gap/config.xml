@@ -69,15 +69,15 @@
     <feature name="http://api.phonegap.com/1.0/geolocation"/>
     <feature name="http://api.phonegap.com/1.0/network"/>
 
-    <gap:plugin name="oeg.apache.cordova.camera"/>
-    <gap:plugin name="oeg.apache.cordova.geolocation"/>
-    <gap:plugin name="oeg.apache.cordova.dialogs"/>
-    <gap:plugin name="oeg.apache.cordova.device"/>
-    <gap:plugin name="oeg.apache.cordova.network-information"/>
-    <gap:plugin name="oeg.apache.cordova.console"/>
-    <gap:plugin name="oeg.apache.cordova.inappbrowser"/>
-    <gap:plugin name="oeg.apache.cordova.network-information"/>
-    <gap:plugin name="oeg.apache.cordova.splashscreen"/>
+    <gap:plugin name="org.apache.cordova.camera"/>
+    <gap:plugin name="org.apache.cordova.geolocation"/>
+    <gap:plugin name="org.apache.cordova.dialogs"/>
+    <gap:plugin name="org.apache.cordova.device"/>
+    <gap:plugin name="org.apache.cordova.network-information"/>
+    <gap:plugin name="org.apache.cordova.console"/>
+    <gap:plugin name="org.apache.cordova.inappbrowser"/>
+    <gap:plugin name="org.apache.cordova.network-information"/>
+    <gap:plugin name="org.apache.cordova.splashscreen"/>
 
     <access origin="*" subdomains="true"/>
 
