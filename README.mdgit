@@ -1,0 +1,1 @@
+# CIS217HikingApp  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/dman1973/CIS217HikingApp.gitgit push -u origin master
